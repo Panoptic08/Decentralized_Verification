@@ -15,6 +15,11 @@ npm or yarn
 Solidity (v0.8.0 or later)
 Truffle or Hardhat
 MetaMask or another Ethereum wallet
+
+Contract Address->
+0xc46d81165a511c9523765c83faaef9d366bf37f088e0d9641944ca6bcf840d42
+
+
 Installation
 Clone the repository:
 
@@ -23,6 +28,7 @@ Copy code
 git clone https://github.com/your-username/identity-verification-smart-contract.git
 cd identity-verification-smart-contract
 Install dependencies:
+
 
 bash
 Copy code
