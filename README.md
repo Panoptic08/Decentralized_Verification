@@ -117,5 +117,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Contact
 For any questions or issues, please open an issue in the repository or contact the project maintainer:
 
-Email: maintainer@example.com
-GitHub: your-username
+Email: kartikdoda86@gmail.com
+GitHub: Panoptic08
