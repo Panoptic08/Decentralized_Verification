@@ -1,0 +1,9 @@
+[package]
+name = "digital_asset_launchpad"
+version = "1.0.0"
+
+[dependencies]
+AptosFramework = { git = "https://github.com/aptos-labs/aptos-core.git", rev = "mainnet", subdir = "aptos-move/framework/aptos-framework" }
+
+[addresses]
+launchpad_addr = "0x37dc61ef0ab25b064ad18d79f4a73b1df8a7e7306f99c68473df175b68323799"
